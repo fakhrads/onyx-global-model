@@ -1,0 +1,6 @@
+id=onyx_global_model
+name=Onyx global model (CN unit)
+version=v1
+versionCode=1
+author=fakhrads
+description=Reports a CN onyx (25053RT47C) as the global 25053PC47G, like stock global firmware does, to test VoLTE on carriers such as Banglalink.
